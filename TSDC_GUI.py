@@ -1,4 +1,5 @@
 from tkinter import *
+import TSDC
 
 window = Tk()
 var = IntVar()
